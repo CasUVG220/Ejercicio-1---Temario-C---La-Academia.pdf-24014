@@ -1,0 +1,1 @@
+La carpeta entera se llama ejercicio prueba, pero adentro ay otra carpeta que se llama ejercicio pruba la cual contiene el archivo CSV, el programa creara una carpeta "Ejercicio Prueba" con un nuevo archivo CSV llamado "boletos.csv" si es que no esta en la compu, o solo simplemente no funcionara. Si quieres que los datos se guarden tienen que poner la opcion 5 que es la de salir.
